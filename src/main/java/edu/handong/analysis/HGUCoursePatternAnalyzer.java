@@ -168,6 +168,4 @@ public class HGUCoursePatternAnalyzer {
 		return false;
 	}
 
-	
-	
 }
