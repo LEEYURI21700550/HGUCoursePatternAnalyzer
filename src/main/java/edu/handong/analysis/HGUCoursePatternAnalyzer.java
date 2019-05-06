@@ -131,7 +131,7 @@ public class HGUCoursePatternAnalyzer {
 		
 		i=0;
 		
-		for(i=0; i<7; i++)
+		for(i=0; i<6; i++)
 		{
 			courses[i]=temp2[0];
 		}
